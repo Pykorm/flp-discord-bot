@@ -1,0 +1,15 @@
+{
+  "name": "fld",
+  "version": "1.0.0",
+  "description": "A discord bot for the FLD server",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Valentin Regnault",
+  "license": "ISC"
+}
